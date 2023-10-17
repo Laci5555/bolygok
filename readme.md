@@ -12,3 +12,10 @@
     > git commit -m "first commit"
 - ellenőrzés: 
     > git status
+- az összes verzió megjelenítése:
+    > git log
+- távoli repo létrehozása:
+- helyi repo és távoli repo összekapcsolása
+    > git remote add origin https:// **token@** github.com/Laci5555/reponame.git
+    
+    
